@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Shravani Thorave</h1>
 
 <h3 align="center">
-B.Tech Computer Engineering Student • Developer • DSA Enthusiast
+Computer Engineering Student • Full Stack Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
