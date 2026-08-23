@@ -1,286 +1,182 @@
-# 💻 Shravani Thorave
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=220&section=header&text=Shravani%20Thorave&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="Shravani Thorave Banner">
 
-<div align="center">
+<h1 align="center">👋 Hi, I'm Shravani Thorave</h1>
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║     Full-Stack Developer | DSA Enthusiast                 ║
-║     Building Solutions that Matter                        ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<h3 align="center">
+B.Tech IT Student • Full Stack Developer • DSA Enthusiast
+</h3>
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;DSA+Problem+Solver;AI+%26+ML+Enthusiast;Node.js+%26+React+Developer;Always+Learning+%26+Building)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Projects+That+Solve+Real+Problems;Learning+Full+Stack+Development;Practicing+Data+Structures+%26+Algorithms;Exploring+Modern+Web+Technologies;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-ShravaniThorave-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ShravaniThorave)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shravani__2511-FFB800?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/Shravani_2511/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shravani%20Thorave-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/shravani-thorave-295230388/)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShravaniThorave&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
+</p>
 
 ---
 
-## 👋 About Me
+# 💫 About Me
 
 ```yaml
-Name: Shravani Thorave
-Location: Mumbai, Maharashtra, India
-Education: VIT Vellore - B.Tech Computer Science (2nd Year)
-Role: Full-Stack Developer | Problem Solver | AI Explorer
+Name:
+  Shravani Thorave
 
-Currently Working On:
-  - AI-Powered Ride Management System (DBMS Project)
-  - NAMASTE/ICD-11 EMR Integration (SIH 2026)
-  - DSA Problem Solving & Optimization
-  - Full-Stack Development with Node.js & React
+Education:
+  B.Tech Information Technology
 
-Technical Focus:
-  - Backend Development (Node.js, Express, MySQL)
-  - Frontend Development (React, JavaScript)
-  - Database Design & Optimization
-  - AI/ML Integration (Gemini API)
+Current Focus:
+  - Full Stack Web Development
   - Data Structures & Algorithms
+  - Java Programming
+  - React Development
+  - Building Real-World Projects
 
-Philosophy:
-  "Code that solves real problems, one step at a time."
+Currently Learning:
+  - Advanced Java
+  - DSA & Problem Solving
+  - React & Modern Web Development
+  - Backend Development
+  - Git & GitHub
+
+Interests:
+  - Building useful software
+  - Problem Solving
+  - Web Development
+  - Open Source
+  - Learning new technologies
+
+Goal:
+  Become a strong software engineer by continuously
+  learning, building, and improving.
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚙️ Tech Stack
 
-<div align="center">
+### 💻 Programming Languages
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" alt="Programming Languages"/>
+</p>
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=gsap&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### 🌐 Web Development
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite" alt="Web Development"/>
+</p>
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=flat-square&logo=n8n&logoColor=white)
+### 🗄️ Database & Tools
 
-### **AI/ML**
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8F7EE7?style=flat-square&logo=google&logoColor=white)
-![Retrieval Augmented Generation](https://img.shields.io/badge/RAG-00D9FF?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" alt="Tools"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 1. **AI-Powered Ride Management System** 🚗
-   - **Tech Stack:** Node.js, Express, MySQL, React, Google Gemini API, n8n
-   - **Status:** In Development (DBMS Mini Project)
-   - **Features:**
-     - User authentication (Passenger/Driver/Admin)
-     - Real-time ride booking & assignment
-     - AI-powered ride assistance chatbot
-     - Automated support ticket classification
-     - Fare calculation with surge pricing
-     - Rating & review system
-   - **Database:** 8 normalized tables, 4 triggers, 3 views
-   - **Repository:** [View on GitHub](https://github.com/ShravaniThorave)
-
-### 2. **NAMASTE/ICD-11 EMR Integration API** 🏥
-   - **Tech Stack:** Python, FastAPI, PostgreSQL, HL7/FHIR, React
-   - **Status:** SIH 2026 Submission (Team Project)
-   - **Problem Statement:** Integrate AYUSH Traditional Medicine with modern EMR systems
-   - **Impact:** Targets 8L+ AYUSH practitioners, 500M+ patients
-   - **Features:**
-     - NAMASTE → ICD-11 conversion API
-     - FHIR-compliant patient records
-     - Healthcare data standardization
-     - Traditional medicine integration
-   - **Team:** 6 members (Full-Stack Contributor)
-   - **Repository:** [SIH 2026 Project]
-
-### 3. **DSA Visualizer** 📊
-   - **Tech Stack:** React, JavaScript, GSAP
-   - **Features:**
-     - Interactive algorithm visualization
-     - Step-by-step execution
-     - Visual learning for complex DSA concepts
-     - Deployed & live
-   - **Repository:** [View on GitHub](https://github.com/ShravaniThorave)
-
-### 4. **Hospital Management System** 🏨
-   - **Tech Stack:** C, Data Structures
-   - **Features:**
-     - Patient record management
-     - Appointment scheduling
-     - Doctor assignment
-   - **Repository:** [View on GitHub](https://github.com/ShravaniThorave)
-
-### 5. **MediExplainAI** (Collaboration) 🤖
-   - **Tech Stack:** Node.js, Express, MongoDB, Google Gemini, Cloudinary, Multer
-   - **Role:** Learned full-stack architecture & best practices
-   - **Contribution:** Code analysis & optimization
+| Project                                   | Description                                                                                 |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 🧠 **DSA Visualizer**                     | Interactive React-based visualization of Data Structures and Algorithms.                    |
+| 🏥 **Hospital Patient Management System** | C-based project for managing patient-related information and operations.                    |
+| 📡 **WiFi Heat Mapping**                  | Campus WiFi dead-zone visualization using floor plans and technical mapping.                |
+| 💻 **Ride Management AI**                 | Exploring software development with modern backend, database, and AI-oriented technologies. |
 
 ---
 
-## 📊 GitHub Statistics
+# 🧠 What I'm Working On
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShravaniThorave&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniThorave&theme=github_dark&hide_border=true&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShravaniThorave&theme=github-dark-blue&hide_border=true&stroke=00D9FF)
-
-</div>
+* 🔹 Strengthening **Data Structures & Algorithms**
+* 🔹 Building projects with **Java & JavaScript**
+* 🔹 Improving my **React** skills
+* 🔹 Learning **backend development**
+* 🔹 Practicing problem solving on **LeetCode**
+* 🔹 Exploring modern development tools and workflows
+* 🔹 Building projects that can solve real-world problems
 
 ---
 
-## 📚 Currently Learning
+# 🏆 Certifications & Achievements
 
-```
-┌─────────────────────────────────────────┐
-│  Active Learning Path (Sept - Dec 2026) │
-├─────────────────────────────────────────┤
-│                                         │
-│  ✅ Full-Stack Development              │
-│     ├─ Node.js & Express Mastery       │
-│     ├─ React Best Practices            │
-│     └─ Database Optimization           │
-│                                         │
-│  ✅ DSA & Problem Solving               │
-│     ├─ LeetCode: 30+ problems target   │
-│     ├─ C++ STL mastery                 │
-│     └─ Algorithm design patterns       │
-│                                         │
-│  ✅ AI/ML Integration                   │
-│     ├─ Gemini API workflows            │
-│     ├─ RAG systems                     │
-│     └─ Prompt engineering              │
-│                                         │
-│  ✅ System Design                       │
-│     ├─ n8n automation                  │
-│     ├─ Workflow orchestration          │
-│     └─ Scalable architecture           │
-│                                         │
-│  ✅ Interview Preparation               │
-│     ├─ Mock interviews                 │
-│     ├─ System design questions         │
-│     └─ Behavioral assessment           │
-│                                         │
-└─────────────────────────────────────────┘
+* 🎓 **NPTEL Programming in Java — 98%**
+* 💻 Building and deploying projects using **React + Vite**
+* 🧩 Regularly practicing **DSA and competitive problem solving**
+* 🚀 Developing real-world academic and personal projects
+
+---
+
+# 📊 GitHub Insights
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShravaniThorave&theme=github_dark" alt="GitHub Profile Details"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShravaniThorave&theme=github_dark" alt="Repositories Per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShravaniThorave&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ShravaniThorave&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniThorave&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+```text
+Java                 ███████████████░░░
+Data Structures      █████████████░░░░░
+React                ████████████░░░░░░
+Full Stack           ██████████░░░░░░░░
+Backend Development  ████████░░░░░░░░░░
+Cloud & Deployment   ██████░░░░░░░░░░░░
 ```
 
 ---
 
-## 🎯 Key Achievements
+# 💡 My Development Philosophy
 
-- ✅ **19 LeetCode Problems Solved** (Java/C++)
-- ✅ **React Visualizer Deployed** (Interactive DSA learning tool)
-- ✅ **2 Forage Simulations Completed** (Consulting & Tech skills)
-- ✅ **SIH 2026 Team Lead** (Full-Stack Developer)
-- ✅ **DBMS Mini Project Architecture Designed** (8 tables, normalized)
-- ✅ **AI API Integration** (Gemini, prompt engineering)
-- ✅ **Code Review Proficiency** (AI-generated vs self-written code analysis)
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the best way to learn software development is by building things, making mistakes, understanding why they happen, and continuously improving.
 
 ---
 
-## 🔄 Development Workflow
+# 🌐 Connect With Me
 
-```
-My approach to building software:
+<p align="center">
 
-1. UNDERSTAND
-   ├─ Read problem carefully
-   ├─ Ask clarifying questions
-   └─ Break into smaller parts
+<a href="https://github.com/ShravaniThorave">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-2. DESIGN
-   ├─ Architecture planning
-   ├─ Database schema
-   └─ Data flow mapping
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-3. BUILD
-   ├─ Write step-by-step
-   ├─ Understand every line
-   ├─ Test constantly
-   └─ Fix bugs immediately
-
-4. DOCUMENT
-   ├─ Code comments
-   ├─ README files
-   ├─ API documentation
-   └─ Learning notes
-
-5. IMPROVE
-   ├─ Code review
-   ├─ Performance optimization
-   ├─ Security hardening
-   └─ Refactoring
-
-Philosophy: Speed without understanding = Technical Debt
-           Understanding + Speed = Mastery
-```
+</p>
 
 ---
 
-## 💬 Let's Connect!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
 
-<div align="center">
+<h3 align="center">
+🚀 Learn • Build • Improve • Repeat
+</h3>
 
-I'm always open to:
-- 💡 Discussing tech ideas & solutions
-- 🤝 Collaborating on projects
-- 📚 Learning from experienced developers
-- 🚀 Building products that solve real problems
-
-### **Reach Out:**
-
-[![Email](https://img.shields.io/badge/Email-shravanithorave25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanithorave25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-thorave-295230388/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShravaniThorave)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Challenge%20Me-FFB800?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Shravani_2511/)
-
-</div>
-
----
-
-## 🌟 My Coding Mantra
-
-<div align="center">
-
-> **"Every line of code tells a story.**
-> **My story is about learning, building, and solving real problems.**
-> **One commit at a time."**
-
----
-
-```
-                          ╔═══════════════╗
-                          ║ CODE • BUILD  ║
-                          ║ LEARN • REPEAT║
-                          ╚═══════════════╝
-```
-
-**Made with ❤️ by Shravani Thorave**
-
-Last Updated: August 2026
-
-</div>
+<p align="center">
+Building today. Learning every day. Growing one commit at a time. 💜
+</p>
