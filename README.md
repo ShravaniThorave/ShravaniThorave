@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=220&section=header&text=Shravani%20Thorave&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="Shravani Thorave Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=220&section=header&text=Shravani%20Thorave&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Computer%20Engineering%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="Shravani Thorave Banner">
 
 <h1 align="center">👋 Hi, I'm Shravani Thorave</h1>
 
 <h3 align="center">
-B.Tech IT Student • Full Stack Developer • DSA Enthusiast
+B.Tech Computer Engineering Student • Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ Name:
   Shravani Thorave
 
 Education:
-  B.Tech Information Technology
+  B.Tech Computer Engineering
 
 Current Focus:
   - Full Stack Web Development
@@ -33,8 +33,8 @@ Current Focus:
   - Building Real-World Projects
 
 Currently Learning:
-  - Advanced Java
-  - DSA & Problem Solving
+  - C++ STL
+  - Data Structures & Algorithms
   - React & Modern Web Development
   - Backend Development
   - Git & GitHub
@@ -58,52 +58,66 @@ Goal:
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,java,cpp,js" alt="Programming Languages"/>
 </p>
 
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite" alt="Web Development"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Web Development"/>
 </p>
 
 ### 🗄️ Database & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and Tools"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project                                   | Description                                                                                 |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 🧠 **DSA Visualizer**                     | Interactive React-based visualization of Data Structures and Algorithms.                    |
-| 🏥 **Hospital Patient Management System** | C-based project for managing patient-related information and operations.                    |
-| 📡 **WiFi Heat Mapping**                  | Campus WiFi dead-zone visualization using floor plans and technical mapping.                |
-| 💻 **Ride Management AI**                 | Exploring software development with modern backend, database, and AI-oriented technologies. |
+| Project                                   | Description                                                                     |
+| ----------------------------------------- | ------------------------------------------------------------------------------- |
+| 🧠 **DSA Visualizer**                     | Interactive React-based project for visualizing Data Structures and Algorithms. |
+| 🏥 **Hospital Patient Management System** | C-based project designed to manage patient information and hospital operations. |
+| 🚗 **Ride Management AI**                 | An AI-oriented ride management project currently under development.             |
+| 👤 **GitHub Profile Viewer**              | Web application for viewing and exploring GitHub profile information.           |
+
+---
+
+# 💼 Job Simulation Experience
+
+### 🏦 J.P. Morgan — Software Engineering Job Simulation
+
+Completed a **J.P. Morgan Software Engineering Job Simulation** through Forage.
+
+* Worked with **Java and Spring Boot**
+* Worked with **Maven**
+* Implemented functionality involving **Apache Kafka**
+* Worked with message deserialization and transaction data
+* Practiced working with an existing software project and debugging/testing
 
 ---
 
 # 🧠 What I'm Working On
 
 * 🔹 Strengthening **Data Structures & Algorithms**
-* 🔹 Building projects with **Java & JavaScript**
+* 🔹 Practicing **C++ STL**
+* 🔹 Building projects with **Java and JavaScript**
 * 🔹 Improving my **React** skills
 * 🔹 Learning **backend development**
 * 🔹 Practicing problem solving on **LeetCode**
-* 🔹 Exploring modern development tools and workflows
-* 🔹 Building projects that can solve real-world problems
+* 🔹 Building and improving real-world projects
 
 ---
 
 # 🏆 Certifications & Achievements
 
 * 🎓 **NPTEL Programming in Java — 98%**
-* 💻 Building and deploying projects using **React + Vite**
-* 🧩 Regularly practicing **DSA and competitive problem solving**
-* 🚀 Developing real-world academic and personal projects
+* 💻 Built and deployed projects using **React + Vite**
+* 🧩 Regularly practicing **Data Structures & Algorithms**
+* 🚀 Completed a **J.P. Morgan Software Engineering Job Simulation** through Forage
 
 ---
 
@@ -135,8 +149,8 @@ Goal:
 # 📚 Currently Exploring
 
 ```text
-Java                 ███████████████░░░
-Data Structures      █████████████░░░░░
+C++ STL              █████████████░░░░░░
+Data Structures      █████████████░░░░░░
 React                ████████████░░░░░░
 Full Stack           ██████████░░░░░░░░
 Backend Development  ████████░░░░░░░░░░
@@ -163,6 +177,10 @@ I believe the best way to learn software development is by building things, maki
 
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
